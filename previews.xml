@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="Czech (cs)"
+        activity="com.pedandroid.brightnessphone.BrightnessPhone"
+        config="layout-cs-sw360dp-w360dp-h640dp-normal-long-port-notnight-xhdpi-finger-keyssoft-nokeys-navhidden-nonav-1280x720-v17"
+        device="4.65in 720p (Galaxy Nexus)"
+        devicestate="Portrait"
+        locale="cs"
+        target="Android 4.2"
+        theme="@android:style/Theme.Translucent.NoTitleBar" >
+    </preview>
+
+</previews>
