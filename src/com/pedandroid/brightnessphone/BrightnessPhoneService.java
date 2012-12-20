@@ -85,6 +85,8 @@ public class BrightnessPhoneService extends Service {
 			
 		}
 //		return mStartMode ? START_STICKY_COMPATIBILITY : START_STICKY;
+//		Tady je zmnìna
+		
 		return super.onStartCommand(intent,flag,startId);
 //		return mStartMode;
     }
